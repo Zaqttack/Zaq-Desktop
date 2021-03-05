@@ -1,0 +1,19 @@
+{
+  "name": "zaq-desktop",
+  "version": "1.0.0",
+  "description": "Desktop environment followed from a YouTube playlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaqttack/Zaq-Desktop.git"
+  },
+  "author": "Zaquariah Holland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zaqttack/Zaq-Desktop/issues"
+  },
+  "homepage": "https://github.com/Zaqttack/Zaq-Desktop#readme"
+}
